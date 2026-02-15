@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "name": "Sunil Chavda",
+    "role": "Creative Graphic Designer",
+    "tagline": "Transforming ideas into stunning visual experiences that captivate and inspire"
+  },
+  "about": {
+    "bio": "I'm a passionate graphic designer with a keen eye for detail and a love for creating beautiful, functional designs. With years of experience in branding, visual identity, and digital design, I bring creativity and innovation to every project. My approach combines strategic thinking with artistic flair to deliver designs that not only look amazing but also achieve business objectives.",
+    "location": "Surendranagar, Gujarat, India",
+    "experience": "6 Months"
+  },
+  "contact": {
+    "phone": "+91 99049 96323",
+    "email": "sunilchavda823@gmail.com"
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/sunil_chavda_001",
+      "icon": "fab fa-instagram"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://linkedin.com/sunil_chavda_001",
+      "icon": "fab fa-facebook"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Corel Draw",
+      "icon": "fas fa-paint-brush",
+      "proficiency": 95
+    },
+    {
+      "name": "Figma",
+      "icon": "fab fa-figma",
+      "proficiency": 92
+    },
+    {
+      "name": "Photoshop",
+      "icon": "fas fa-image",
+      "proficiency": 94
+    },
+    {
+      "name": "Illustrator",
+      "icon": "fas fa-vector-square",
+      "proficiency": 90
+    },
+    {
+      "name": "Canva",
+      "icon": "fas fa-palette",
+      "proficiency": 88
+    }
+  ],
+  "projects": [
+    {
+      "title": "Social Media Campaign",
+      "category": "Poster",
+      "image": "/images/s1.jpeg"
+    },
+    {
+      "title": "Corporate Brand Identity",
+      "category": "Brochure",
+      "image": "/images/b1.jpg"
+    },
+    {
+      "title": "E-commerce Web Banner",
+      "category": "Banner",
+      "image": "/images/h1.jpg"
+    },
+    {
+      "title": "Minimalist Brand Logo",
+      "category": "Logo",
+      "image": "/images/bd02.jpeg"
+    },
+    {
+      "title": "Modern Tech Startup Logo",
+      "category": "Logo",
+      "image": "/images/bd01.jpeg"
+    },
+    {
+      "title": "Music Festival Poster",
+      "category": "Poster",
+      "image": "/images/s2.jpg"
+    },
+    {
+      "title": "Product Catalog Design",
+      "category": "Brochure",
+      "image": "/images/b2.jpg"
+    },
+    {
+      "title": "Promotional Web Banner",
+      "category": "Banner",
+      "image": "/images/h2.jpg"
+    },
+    {
+      "title": "Restaurant Brand Identity",
+      "category": "Logo",
+      "image": "/images/bd03.jpeg"
+    },
+    {
+      "title": "Event Promotional Poster",
+      "category": "Poster",
+      "image": "/images/s3.png"
+    },
+    {
+      "title": "Travel Agency Brochure",
+      "category": "Brochure",
+      "image": "/images/b3.jpg"
+    },
+    {
+      "title": "Holiday Sale Banner",
+      "category": "Banner",
+      "image": "/images/h3.jpg"
+    },
+    {
+      "title": "Fitness Brand Logo",
+      "category": "Logo",
+      "image": "/images/bd04.jpeg"
+    },
+    {
+      "title": "Concert Night Poster",
+      "category": "Poster",
+      "image": "/images/s4.png"
+    }
+  ]
+}
